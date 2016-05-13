@@ -1,1 +1,0 @@
-c:\users\hope\documents\visual studio 2013\Projects\GameCatalog\GameCatalog\bin\Debug\GameCatalog.exe.config
