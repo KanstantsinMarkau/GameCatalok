@@ -7,7 +7,7 @@ using System.Data.Entity;
 
 namespace GameCatalog
 {
-    public class GameCollection
+    public class GameCollection : DbContext
     {
         public DbSet<Game> Games { get; set; }
     }
